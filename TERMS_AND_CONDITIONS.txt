@@ -1,0 +1,41 @@
+TERMS AND CONDITIONS
+
+Repository: Project-Javion/Code-Usage-T-Cs
+
+IMPORTANT: This file is a template for repository terms and conditions (T&C). It is provided for convenience and does not constitute legal advice. Review and adapt this content with a lawyer before relying on it.
+
+1. Acceptance
+By accessing or using the code, documentation, or other materials in this repository ("Repository"), you agree to these Terms and Conditions. If you do not agree, do not use the Repository.
+
+2. License and Use
+- Unless otherwise specified in a separate license file, the Repository is made available under the license declared in LICENSE (if present).
+- You may use, modify, and distribute the code only in accordance with the stated license and these Terms.
+
+3. Contributions
+- Contributions submitted to this Repository (pull requests, issues, patches) are governed by the Contributor License Agreement or Developer Certificate of Origin if such a policy is in place. By contributing you grant the project maintainers a perpetual, worldwide, non-exclusive, royalty-free license to use your contributions.
+
+4. No Warranty
+The Repository and its contents are provided "AS IS", without warranty of any kind. The maintainers explicitly disclaim all warranties, whether express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+
+5. Limitation of Liability
+Under no circumstances shall the project maintainers, contributors, or affiliated organizations be liable for any indirect, incidental, consequential, special, or exemplary damages arising from your use of the Repository, even if advised of the possibility of such damages.
+
+6. Security and Sensitive Data
+Do not use this Repository to store secrets, private keys, passwords, or other sensitive data. If you find sensitive information committed to the Repository, contact the maintainers immediately and follow responsible disclosure practices.
+
+7. Third-Party Components
+The Repository may include or link to third-party libraries or components. Your use of third-party components is governed by their respective licenses.
+
+8. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction specified in the project's governance documents, if any. If no jurisdiction is specified, governing law is at the project's discretion and will be applied consistently.
+
+9. Changes
+Maintainers may update these Terms at any time by modifying this file. Continued use of the Repository after changes will constitute acceptance of the revised Terms.
+
+10. Contact
+For questions about these Terms, please open an issue or contact the repository maintainers.
+
+----
+Notes:
+- Replace or augment the sections above with project-specific policies (CLA, DCO, license references, code of conduct, contribution guidelines).
+- Consider linking to LICENSE, CODE_OF_CONDUCT.md, CONTRIBUTING.md, and SECURITY.md if present.

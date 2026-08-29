@@ -1,3 +1,10 @@
 JAVION OF OSYNCAR
 CODE USAGE TERMS AND CONDITIONS
 USE OF THIS CODE MUST OBEY
+===============
+
+You may use any Javion code so long as is agreed by a member of the Javion team or Osyncar.
+The agreeing member will inform you a plan:
+Free Plan: You must keep the Osyncar watermark visible in every code snippet that you borrow.
+Paid Plan: You may use the code without any watermark but the price will br decided at the time (by the agreeing member).
+

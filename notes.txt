@@ -7,3 +7,6 @@ Usage of this code in unofficial projects without the official Osyncar watermark
 
 The Javion Operating System is a Linux based OS called [competition! Submit pull requests to this file to enter the competition on what to call this OS].
 It is designed to optimise usage of Google Play Store apps and +...
+===============
+
+PLEASE pull request the files in Project Javion to help contribute!
